@@ -59,6 +59,7 @@ export function WidgetForm(props: WidgetFormProps) {
         </a>{" "}
         agradece seu feedback ♥
       </footer>
+      .
     </div>
   );
 }
