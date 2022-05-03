@@ -12,13 +12,8 @@ function Exemplo(props: ButtonProps) {
 }
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <div>
-      <Exemplo text="botão" />
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
-      <h2 className="text-6xl">bla</h2>
       <Widget />
     </div>
   );
